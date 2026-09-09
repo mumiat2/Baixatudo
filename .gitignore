@@ -1,0 +1,11 @@
+tools/
+__pycache__/
+.build/
+build/
+dist/Baixatudo.exe
+dist/~*
+installer/payload/
+installer/*.sed
+*.part
+*.tmp
+*.log
